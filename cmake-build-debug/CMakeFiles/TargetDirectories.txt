@@ -1,0 +1,3 @@
+/home/bo/bobo/self_folder/opencv_study/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/bo/bobo/self_folder/opencv_study/cmake-build-debug/CMakeFiles/my_opencv.dir
+/home/bo/bobo/self_folder/opencv_study/cmake-build-debug/CMakeFiles/edit_cache.dir

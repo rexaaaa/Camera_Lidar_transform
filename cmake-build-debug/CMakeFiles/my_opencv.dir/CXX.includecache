@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/bo/bobo/self_folder/opencv_study/main.cpp
+iostream
+-
+opencv2/opencv.hpp
+/home/bo/bobo/self_folder/opencv_study/opencv2/opencv.hpp
+opencv_study.h
+/home/bo/bobo/self_folder/opencv_study/opencv_study.h
+string
+/home/bo/bobo/self_folder/opencv_study/string
+
+/home/bo/bobo/self_folder/opencv_study/opencv_study.cpp
+opencv_study.h
+/home/bo/bobo/self_folder/opencv_study/opencv_study.h
+
+/home/bo/bobo/self_folder/opencv_study/opencv_study.h
+iostream
+/home/bo/bobo/self_folder/opencv_study/iostream
+opencv2/opencv.hpp
+/home/bo/bobo/self_folder/opencv_study/opencv2/opencv.hpp
+opencv2/core.hpp
+/home/bo/bobo/self_folder/opencv_study/opencv2/core.hpp
+opencv2/core/core.hpp
+/home/bo/bobo/self_folder/opencv_study/opencv2/core/core.hpp
+opencv2/core/hal/intrin.hpp
+/home/bo/bobo/self_folder/opencv_study/opencv2/core/hal/intrin.hpp
+
